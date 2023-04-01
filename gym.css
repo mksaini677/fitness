@@ -1,0 +1,334 @@
+.home {
+  width: 100%;
+  height: 500px;
+  /* background-color: blue; */
+  /* padding-left: 20px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.home3 {
+  width: 100%;
+  height: 600px;
+  background-color:white;
+  display: flex;
+  flex-direction: row;
+}
+.home4{
+  width: 100%;
+  height: 600px;
+  /* background-color: blueviolet; */
+  display: flex;
+  flex-direction: row;
+  
+}
+.pro{
+  width: 100%;
+  height: 600px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 30px;
+  color: white;
+}
+
+.divbutton{
+  width: 100%;
+  height:150px ;
+  background-color:black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 50px;
+}
+
+.button8{
+  margin-top: 200px;
+  width: 250px;
+  height: 70px;
+  background-color: black;
+  color:white;
+}
+.form{
+  width: 100%;
+  height: 600px;
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.textform{
+  font-size: 70px;
+}
+.box{
+  width: 40%;
+  height: 100px;
+  font-size: 50px;
+
+}
+.input1{
+  width: 500px;
+  height: 50px;
+}
+.input2{
+  width: 500px;
+  height: 50px;
+}
+.home5{
+  width: 100%;
+  height: 600px;
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+}
+.manoj5{
+  width: 50%;
+  height: 600px;
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.manoj6{
+  width: 50%;
+  height: 600px;
+  background-color: brown;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+}
+.text2{
+  font-size: 30px;
+}
+.manoj3{
+  width: 50%;
+  height: 600px;
+  /* background-color: brown; */
+
+}
+.manoj4{
+  width: 50%;
+  height: 600px;
+  /* background-color: rgb(42, 165, 87); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.button6{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-top: 50px;
+}
+.text{
+  font-size: 50px;
+}
+.manoj1 {
+  width: 50%;
+  height: 600px;
+  /* background-color: aquamarine; */
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.manoj2{
+  width: 50%;
+  height: 600px;
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  ;
+
+
+}
+.vl{
+  width: 2px;
+  background-color: white;
+  height: 600px;
+  
+
+}
+.vl2{
+  width: 2px;
+  background-color: blue;
+  height: 600px; 
+}
+.gym-image6{
+  width: 400px;
+  height: 400px;
+}
+.button5 {
+  width: 150px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+
+ 
+}
+
+.parentes {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+}
+.parentes2 {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  background-color: white;
+}
+.div1 {
+  width: 50%;
+  height: 100%;
+  /* background-color: pink; */
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+}
+.div6 {
+  width: 25%;
+  /* height: 100%;
+  background-color: rgb(119, 0, 255); */
+  flex-direction: column;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.button3 {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.div3 {
+  width: 25%;
+  height: 100%;
+  /* background-color: rgb(255, 0, 238); */
+  flex-direction: column;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.div4 {
+  width: 25%;
+  height: 100%;
+  /* background-color: rgb(0, 255, 136); */
+  flex-direction: column;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.div5 {
+  width: 25%;
+  height: 100%;
+  /* background-color: brown; */
+  flex-direction: column;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.price {
+  margin-top: 20px;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  /* background-color: blanchedalmond;
+  border: 2px solid green; */
+  font-size: 30px;
+}
+.div2 {
+  width: 50%;
+  height: 100%;
+  /* background-color: rgb(255, 0, 51); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 80px;
+}
+.protien {
+  width: 100px;
+  height: 100px;
+  /* background-color: brown; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gym-image1 {
+  width: 500px;
+  height: 400px;
+}
+.gym-image4 {
+  width: 200px;
+  height: 200px;
+  /* background-color: aqua; */
+  justify-content: right;
+  align-items: flex-start;
+}
+.gym-image5 {
+  width: 200px;
+  height: 200px;
+  /* background-color: blueviolet; */
+}
+
+.gym-image3 {
+  width: 50px;
+  height: 50px;
+}
+.button1 {
+  width: 100px;
+  height: 30px;
+  background-color: black;
+  margin-top: 20px;
+  display: inline;
+  color: white;
+}
+.button2 {
+  width: 100px;
+  height: 30px;
+  background-color: black;
+  margin-top: 40px;
+  display: inline;
+  justify-content: left;
+  align-items: center;
+  color: white;
+}
+.buttondiv {
+  width: 50px;
+  height: 50px;
+  /* background-color: brown; */
+  display: flex;
+  flex-direction: row;
+}
+.navbar-ul {
+  display: flex;
+}
+
+.p-left {
+  margin-left: 40px;
+}
